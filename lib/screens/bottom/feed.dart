@@ -32,7 +32,7 @@ class _HomeState extends State<Feed> {
                       height: 17.h,
                     ),
                     Text(
-                      "피-드",
+                      "",
                       style: TextStyle(
                           fontSize: 25.sp,
                           color: reload.isReloaded
